@@ -1,4 +1,4 @@
 # apna-college
 this is my first repository
-<br/>
+<br>
 Author by- Akshay kumar yadav
